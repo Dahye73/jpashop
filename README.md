@@ -1,2 +1,2 @@
 # jpashop
-springboot 학습
+JPA 학습
